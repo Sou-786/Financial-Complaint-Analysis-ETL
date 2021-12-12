@@ -10,4 +10,4 @@ Azure blob, Databricks, PySpark, Tableau Online
 
 ## Screenshots
 
-<img src="https://github.com/Sou-786/Financial-Complaint-Analysis-ETL/edit/main/Dashboard.png">
+<img src="https://github.com/Sou-786/Financial-Complaint-Analysis-ETL/blob/main/Dashboard.png">
